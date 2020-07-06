@@ -1,0 +1,1 @@
+This is a python package built on Quadratic equation formula to calculate the roots, sum of roots, product of roots, sum of squared roots, inverse of roots by simply importing Quadratic from QuadraticEqn package.
